@@ -1,8 +1,10 @@
-//TODO Indiquer ce que fais le programme
+//Affiche un message de bienvenue
+
+#include "fonction-bienvenue.h"
 
 int main()
 {
-   //TODO Afficher un message de bienvenue
+   afficherBienvenue();
 
    return 0;
 }
